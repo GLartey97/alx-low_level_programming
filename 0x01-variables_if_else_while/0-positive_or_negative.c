@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 /**
- * main - Entry
+ * main - if number is positive, negative or zero
  * initialize n
  * set random number
  * Return: Always 0
