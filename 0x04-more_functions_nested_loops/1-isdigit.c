@@ -3,12 +3,12 @@
 /**
  * _isdigit - checks for digits
  * @c: character
- * Return: 1 if has digit else 0
+ * Return: 1 if c has digit else 0
  */
 
 int _isdigit(int c)
 {
-	if (c >= 0 && c < 10)
+	if (c >= '0' && c <= '9')
 	{
 		return (1);
 	}
