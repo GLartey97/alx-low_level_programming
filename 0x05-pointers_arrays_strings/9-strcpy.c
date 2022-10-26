@@ -1,4 +1,4 @@
-#include "msin.h"
+#include "main.h"
 
 /**
  * _strcpy - function that copies string pointed by src
